@@ -1,0 +1,9 @@
+c:\users\adi_jagdish\documents\visual studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\bin\Debug\Databaseconnectivity.exe.config
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\bin\Debug\Databaseconnectivity.exe
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\bin\Debug\Databaseconnectivity.pdb
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\obj\Debug\Databaseconnectivity.csprojResolveAssemblyReference.cache
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\obj\Debug\Databaseconnectivity.Form1.resources
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\obj\Debug\Databaseconnectivity.Properties.Resources.resources
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\obj\Debug\Databaseconnectivity.csproj.GenerateResource.Cache
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\obj\Debug\Databaseconnectivity.exe
+C:\Users\Adi_jAgDiSh\Documents\Visual Studio 2015\Projects\Databaseconnectivity\Databaseconnectivity\obj\Debug\Databaseconnectivity.pdb
